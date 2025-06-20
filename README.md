@@ -11,9 +11,10 @@ Kenya’s Vision 2030 aims to reduce:
 
 This dashboard was developed to visualize progress towards these goals using county-level data.
 
+---
 ## 🌍 Live Dashboard
 
-🔗 **Access the Dashboard Here**:  
+🔗 **Access the Shiny Dashboard Here**:  
 [https://dz01yb-ogechi-koel.shinyapps.io/mortality/](https://dz01yb-ogechi-koel.shinyapps.io/mortality/)
 
 
@@ -30,4 +31,9 @@ This dashboard was developed to visualize progress towards these goals using cou
 ├── ke_county.dbf
 ├── ke_county.shx
 └── ke_county.prj
+
+---
+## Developer
+**Ogechi Daniel Koel**
+*Data Scientist & Biostatistician at DataQuest Solutions*
 
