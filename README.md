@@ -35,6 +35,6 @@ This dashboard was developed to visualize progress towards these goals using cou
 ```
 ---
 ## Developer
-**Ogechi Daniel Koel**
+**Ogechi Daniel Koel**  
 *Data Scientist & Biostatistician at DataQuest Solutions*
 
