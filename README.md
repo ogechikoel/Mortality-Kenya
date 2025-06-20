@@ -11,6 +11,12 @@ Kenya’s Vision 2030 aims to reduce:
 
 This dashboard was developed to visualize progress towards these goals using county-level data.
 
+## 🌍 Live Dashboard
+
+🔗 **Access the Dashboard Here**:  
+[https://dz01yb-ogechi-koel.shinyapps.io/mortality/](https://dz01yb-ogechi-koel.shinyapps.io/mortality/)
+
+
 ---
 
 ## 📁 Project Structure
@@ -18,9 +24,8 @@ This dashboard was developed to visualize progress towards these goals using cou
 ```bash
 ├── app.R # Main Shiny dashboard application
 ├── README.md # Project documentation
-├── data/
-│ └── data.xlsx # Mortality dataset for 2014 and 2022
-└── kenya_county_shapefile/
+├── data.xlsx # Mortality dataset for 2014 and 2022
+├── kenya_county_shapefile/
 ├── ke_county.shp # Kenya counties shapefile (plus associated .dbf, .shx, .prj files)
 ├── ke_county.dbf
 ├── ke_county.shx
